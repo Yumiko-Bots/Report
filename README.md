@@ -51,6 +51,7 @@ If installed , pip install {name}
 ```
 git clone https://github.com/esfelurm/Reporter-Telegram
 cd Reporter-Telegram
+pip install -r requirements.txt
 python main.py
 ```
 ### this 
