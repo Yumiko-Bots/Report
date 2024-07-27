@@ -49,8 +49,8 @@ If installed , pip install {name}
 ## Install :
 
 ```
-git clone https://github.com/esfelurm/Reporter-Telegram
-cd Reporter-Telegram
+git clone https://github.com/Yumiko-Bots/Report
+cd Report
 pip install -r requirements.txt
 python main.py
 ```
